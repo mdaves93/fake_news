@@ -1,0 +1,7 @@
+torch
+torchtext
+scipy
+numpy
+pandas
+gensim
+
