@@ -1,7 +1,8 @@
+wheel
 torch
 torchtext
 scipy
 numpy
 pandas
 gensim
-
+scikit-learn
